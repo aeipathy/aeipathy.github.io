@@ -1,0 +1,18 @@
+/* style-my-tootltips plugin, tooltip styling */
+#s-m-t-tooltip{
+	/* basic */
+	max-width: 300px;
+	z-index: 10;
+	margin: 24px 14px 7px 12px;
+
+	/* style and design */
+	padding: 8px;
+	background: #ffeaf1; /* fallback if rgba not supported */
+	background: rgba(255,234,241,0.8);
+
+	/* font */
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 11px;
+	letter-spacing: 1.2px;
+	color: #474747;
+}
