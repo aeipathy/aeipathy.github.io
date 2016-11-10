@@ -1,6 +1,6 @@
 body {
   background-image: url(bg.png);
-  font-family: Helvetica;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 11px;
   letter-spacing: 1.2px;
   color: #474747; }
@@ -13,7 +13,7 @@ body {
 
 h1 {
   font-size: 30px;
-  font-family: Bodoni;
+  font-family: "Bodoni MT", Bodoni, Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
   margin-bottom: 10px; }
 
 h2 {
@@ -49,5 +49,8 @@ p {
   position: absolute;
   bottom: 30px;
   left: 135px; }
+
+.list {
+  text-align: center; }
 
 /*# sourceMappingURL=style.css.map */
