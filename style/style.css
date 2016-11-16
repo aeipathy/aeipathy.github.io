@@ -39,7 +39,9 @@ p {
   margin-bottom: 10px; }
 
 ul li:before {
-  content: '\2605'; }
+  content: '\2605';
+  font-size: 80%;
+  margin-right: 5px; }
 
 .title {
   text-align: center;
