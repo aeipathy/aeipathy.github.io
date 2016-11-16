@@ -38,6 +38,9 @@ p {
   line-height: 120%;
   margin-bottom: 10px; }
 
+ul li:before {
+  content: "\f2fc"; }
+
 .title {
   text-align: center;
   font-size: 130%;
