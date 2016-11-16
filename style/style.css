@@ -41,6 +41,7 @@ p {
 ul li:before {
   content: '\2605';
   font-size: 80%;
+  color: #474747;
   margin-right: 5px; }
 
 .title {
