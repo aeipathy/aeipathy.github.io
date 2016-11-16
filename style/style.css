@@ -36,7 +36,7 @@ a {
 
 p {
   line-height: 140%;
-  margin-bottom: 30px; }
+  margin-bottom: 10px; }
 
 ul li {
   line-height: 120%; }
@@ -60,6 +60,7 @@ ul li:before {
   left: 135px; }
 
 .list {
-  text-align: center; }
+  text-align: center;
+  margin-bottom: 20px; }
 
 /*# sourceMappingURL=style.css.map */
