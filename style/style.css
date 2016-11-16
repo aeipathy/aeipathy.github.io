@@ -14,13 +14,13 @@ body {
 h1 {
   font-size: 30px;
   font-family: "Bodoni MT", Bodoni, Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
-  margin-bottom: 10px;
-  margin-top: 10px; }
+  margin-bottom: 10px; }
 
 h2 {
   font-size: 25px;
-  font-family: Bodoni;
+  font-family: "Bodoni MT", Bodoni, Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
   margin-bottom: 10px;
+  margin-top: 10px;
   border-bottom: 1px #DAA520 solid;
   font-style: italic; }
 
