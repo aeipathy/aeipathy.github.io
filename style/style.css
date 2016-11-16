@@ -39,7 +39,7 @@ p {
   margin-bottom: 10px; }
 
 ul li:before {
-  content: "\f2fc"; }
+  content: '\2605'; }
 
 .title {
   text-align: center;
