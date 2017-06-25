@@ -1,0 +1,50 @@
+;; gendex.txt generated 24 Jun 2017
+;; by Ancestral Quest
+;;
+<a href="aqwg02.htm#35"> Dorothea</a>
+  - <a href="aqwg02.htm#44"> Elizabeth</a>
+ b.1844 - Mecklenburg-Schwerin, Germany<a href="aqwg02.htm#43"> Sophia</a>
+ b.1830 - Levendorf, Mecklenburg-Schwerin, Germany<a href="aqwg02.htm#42"> Johanne Henriette</a>
+ b.1826 - NeuStrelitz, Brandenburg, West Prussia<a href="aqwg01.htm#11"> Dorothea Elisabeth</a>
+ b.1800 - Trieste<a href="aqwg02.htm#24"> Fredericka Charlotte</a>
+ b.1822 - Penselfanien, Kries Sternberg, Prussia<a href="aqwg01.htm#56"> August</a>
+ b.1821 - Posen, West Prussia<a href="aqwg02.htm#47"> August Heinrich</a>
+ b.1848 - NeuStrelitz, Brandenburg, West Prussia<a href="aqwg02.htm#38"> Auguste Ernstine</a>
+ b.1854 - Vandsburg, West Prussia<a href="aqwg02.htm#15"> Carl Friedrich</a>
+ b.1822 - NeuStrelitz, Brandenburg, West Prussia<a href="aqwg02.htm#28"> Carl Friedrich</a>
+ b.1852 - Vandsburg, West Prussia<a href="aqwg01.htm#16"> Caroline</a>
+ b.1823 - NeuStrelitz, Brandenburg, West Prussia<a href="aqwg02.htm#46"> Caroline Wilhelmina</a>
+ b.1847 - NeuStrelitz, Brandenburg, West Prussia<a href="aqwg01.htm#22"> Christian</a>
+ b.1839 - Vandsburg, West Prussia<a href="aqwg01.htm#18"> Christian Friedrich</a>
+ b.1825 - West Prussia<a href="aqwg01.htm#14"> Ferdinand Ludwig</a>
+ b.1821 - Brandenburg, West Prussia<a href="aqwg01.htm#13"> Fredericka</a>
+ b.1820 - NeuStrelitz, Brandenburg, West Prussia<a href="aqwg02.htm#37"> Freidrich August</a>
+ b.1851 - <a href="aqwg02.htm#26"> Heinrich Herman</a>
+ b.1848 - Vandsburg, West Prussia<a href="aqwg01.htm#21"> Henrietta</a>
+ b.1836 - <a href="aqwg02.htm#36"> Henriette</a>
+ b.1849 - Vandsburg, West Prussia<a href="aqwg02.htm#41"> Johann Friedrich</a>
+ b.1861 - <a href="aqwg01.htm#10"> Johann Gottlieb Sr.</a>
+ b.1797 - Mimeuritz, Brandenburg, West Prussia<a href="aqwg01.htm#20"> Juliane Henriette</a>
+ b.1827 - NeuStrelitz, Brandenburg, West Prussia<a href="aqwg02.htm#39"> Julius Friedrich</a>
+ b.1856 - <a href="aqwg02.htm#40"> Louise Mathilda</a>
+ b.1858 - Vandsburg, West Prussia<a href="aqwg01.htm#17"> Wilhelmina</a>
+ b.1824 - NeuStrelitz, Brandenburg, West Prussia<a href="aqwg02.htm#50"> Albert August</a>
+ b.1862 - <a href="aqwg02.htm#31"> Albert Henry</a>
+ b.1862 - <a href="aqwg02.htm#54"> Anna L.</a>
+ b.1873 - San Pierre, Indiana<a href="aqwg02.htm#19"> August Heinrich</a>
+ b.1826 - NeuStrelitz, Brandenburg, West Prussia<a href="aqwg02.htm#27"> August Johann</a>
+ b.1849 - <a href="aqwg02.htm#49"> Bertha Elizabeth</a>
+ b.1860 - <a href="aqwg02.htm#33"> Edwin Gustav</a>
+ b.1864 - <a href="aqwg02.htm#51"> Frederick Mandus</a>
+ b.1864 - <a href="aqwg02.htm#25"> Friedrich Wilhelm</a>
+ b.1846 - <a href="aqwg02.htm#52"> Henry Ernst</a>
+ b.1866 - <a href="aqwg01.htm#23"> Henry Ludwig</a>
+ b.1839 - Vandsburg, West Prussia<a href="aqwg02.htm#34"> Henry Robert</a>
+ b.1868 - Wanatah, Indiana<a href="aqwg02.htm#12"> John Gottlieb Jr.</a>
+ b.1818 - Mimeuritz, Brandenburg, West Prussia<a href="aqwg02.htm#32"> Julia Henrietta</a>
+ b.1862 - <a href="aqwg02.htm#55"> Lewis</a>
+  - <a href="aqwg02.htm#30"> Theodore Lewis</a>
+ b.1856 - <a href="aqwg02.htm#53"> Wilhelm John</a>
+ b.1868 - <a href="aqwg02.htm#48"> Wilhelmina</a>
+ b.1856 - <a href="aqwg02.htm#29"> Wilhelmina Elizabeth</a>
+ b.1856 - 
